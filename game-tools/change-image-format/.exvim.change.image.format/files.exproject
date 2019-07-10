@@ -1,0 +1,10 @@
+" Press <F1> for help
+
+-[F]change-image-format {
+ |-bg.jpg
+ |-bg.png
+ |-change.image.format.exvim
+ |-main.py
+ |-ui.py }
+
+
